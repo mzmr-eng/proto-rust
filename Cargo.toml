@@ -1,0 +1,6 @@
+[package]
+name = "mzmr-proto"
+version = "0.1.0"
+authors = ["harrison <notallama@gmail.com>"]
+
+[dependencies]
