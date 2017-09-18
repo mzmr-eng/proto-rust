@@ -3,4 +3,15 @@ name = "mzmr-proto"
 version = "0.1.0"
 authors = ["harrison <notallama@gmail.com>"]
 
+build = "build/build.rs"
+
 [dependencies]
+prost = "0.1.0"
+prost-derive = "0.1.0"
+bytes = "0.4.4"
+zmq = "*"
+
+[build-dependencies]
+prost-build = "0.1.0"
+glob = "*"
+	
