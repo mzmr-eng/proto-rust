@@ -1,3 +1,3 @@
 [submodule "proto"]
 	path = proto
-	url = "ssh://../proto.git"
+	url = "ssh://github.com/mzmr-eng/proto.git"
